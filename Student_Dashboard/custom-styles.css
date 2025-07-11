@@ -1,0 +1,202 @@
+:root {
+    --bs-body-bg: rgba(232, 249, 255, 0.918); /* Dark background color */
+    --bs-body-color: #242424; /* Light text color */
+    --bs-link-color: #c595ff; /* Custom link color */
+    --bs-primary:#0071c5; /* Custom primary color */
+    --bs-success: #22e285; /* Custom success color */
+    --bs-danger: #ff3273; /* Custom danger color */
+}
+
+.btn-primary {
+    background-color: var(--bs-primary) !important;
+    border-color: var(--bs-primary) !important;
+    color: white !important; /* Ensures the text color contrasts with the button background */
+}
+
+.btn-success {
+    background-color: var(--bs-success);
+    border-color: var(--bs-success);
+}
+
+.btn-danger {
+    background-color: var(--bs-danger);
+    border-color: var(--bs-danger);
+}
+
+body {
+    background-image: linear-gradient(to bottom, #09111e, #0d1829, #101e34, #13253f, #162b4b, #162b4b, #162b4b, #162b4b, #13253f, #101e34, #0d1829, #09111e);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    padding: 60px 0 0;
+    background-color: rgba(25, 28, 36, 0.8);
+}
+
+.navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    padding: 1px 0;
+    background-color: transparent !important;
+}
+
+.content {
+    margin-top: 65px; /* Height of navbar */
+    margin-left: 150px; /* Width of sidebar */
+    width: calc(100% - 200px); /* Adjusts the width to the remaining screen width */
+}
+
+.navbar-brand,
+.nav-link {
+    font-size: 13px; /* Increase font size */
+}
+
+.sidebar .nav-link {
+    color: #fff;
+    font-size: 35px; /* Adjust icon size */
+    padding: 15px 10px;
+    text-align: center;
+}
+
+.sidebar .nav-link:hover {
+    background-color: #343a40;
+    color: #0072f5;
+    transition: background-color 0.3s ease;
+}
+.sidebar .nav-link i {
+    font-size: 0.75em; /* Adjust icon size */
+    display: block;
+}
+
+/* Tooltip customization */
+.tooltip-inner {
+    background-color: #1f2225;
+    color: #fff;
+    font-size: 15px;
+    padding: 5px 10px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+    position: relative;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+nav ul li a::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 2px;
+    width: 100%;
+    background-color: white;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.3s ease;
+}
+
+nav ul li a:hover::after {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+.navbar-nav .nav-link.active {
+    text-decoration: underline;
+}
+
+/* Set default form background color to white */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+textarea,
+select {
+    background-color: white !important;
+    color: black !important;
+}
+
+/* Set placeholder color to black */
+input::placeholder,
+textarea::placeholder,
+select::placeholder {
+    color: black !important;
+}
+
+/* Apply primary color to buttons with form-btn class */
+.form-btn .btn {
+    background-color: var(--bs-primary) !important;
+    border-color: var(--bs-primary) !important;
+    color: white !important; /* Ensures the text color contrasts with the button background */
+}
+.input-group-text {
+    background-color: #343946; /* Custom background color */
+    color: white; /* Custom text color */
+    border: 1px solid #343946; /* Custom border color to match the background */
+}
+.alert-success {
+    background-color: #aaeab9; /* Light green background color */
+    border-color: #68e786; /* Border color */
+    color: #155724; /* Text color */
+}
+
+.alert-danger {
+    background-color: #ebd1d3; /* Light red background color */
+    border-color: #e5818b; /* Border color */
+    color: #721c24; /* Text color */
+}
+.head-card img{
+    max-height: 600px;
+}
+.head-card{
+    background: rgba(0, 0, 0, 0.5); /* semi-transparent white */
+    color:white;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.9); /* Adjust the shadow values as needed */
+}
+.glass-effect {
+    background: rgba(0, 0, 0, 0.32); /* semi-transparent white */
+    color:white;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    margin-top:20px;
+    border-radius: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.53);
+}
+.badge-success {
+    background-color: #93e8b7 !important; /* Custom green color */
+    color: rgb(11, 46, 1);
+}
+
+/* Custom color for badge-primary */
+.badge-warning {
+    background-color: #f4f5af !important; /* Custom blue color */
+    color: rgb(56, 52, 0);
+}
+
+/* Custom color for badge-danger */
+.badge-danger {
+    background-color: #efaea7 !important; /* Custom red color */
+    color: rgb(62, 1, 1);
+}

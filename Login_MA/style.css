@@ -1,0 +1,18 @@
+body{
+    padding: 50px;
+    background-image: url('../icons/background/1.jpg');
+}
+.container img {
+    width: auto; /* Ensures the logo is displayed at its original size */
+    max-height: 500px; /* Adjust the height as needed */
+    margin-bottom: 10px;
+}
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.form-group{
+    margin-bottom: 30px;
+}
