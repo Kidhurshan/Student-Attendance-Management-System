@@ -124,8 +124,8 @@ The system follows a modular architecture with clear separation of concerns:
 
 <!-- Add Lecturer dashboard screenshot here -->
 <div align="center">
-  <img width="1907" height="1029" alt="image" src="https://github.com/user-attachments/assets/44f48b05-6adc-411a-a616-9e8a5edf11d2" />
-  <img width="1919" height="1034" alt="image" src="https://github.com/user-attachments/assets/8becbe6a-aa2e-47e5-8351-970ce2acd749" />
+  <img width="1907/2" height="1029/2" alt="image" src="https://github.com/user-attachments/assets/44f48b05-6adc-411a-a616-9e8a5edf11d2" />
+  <img width="1919/2" height="1034/2" alt="image" src="https://github.com/user-attachments/assets/8becbe6a-aa2e-47e5-8351-970ce2acd749" />
 </div>
 
 ### 🎓 Student
@@ -140,8 +140,8 @@ The system follows a modular architecture with clear separation of concerns:
 
 <!-- Add Student dashboard screenshot here -->
 <div align="center">
-  <img width="1915" height="1033" alt="image" src="https://github.com/user-attachments/assets/37255cf5-27c5-4275-945a-046782d1a059" />
-  <img width="1918" height="1022" alt="image" src="https://github.com/user-attachments/assets/2f301bb4-b71e-468c-aff5-f897e026ec49" />
+  <img width="1915/2" height="1033/2" alt="image" src="https://github.com/user-attachments/assets/37255cf5-27c5-4275-945a-046782d1a059" />
+  <img width="1918/2" height="1022/2" alt="image" src="https://github.com/user-attachments/assets/2f301bb4-b71e-468c-aff5-f897e026ec49" />
 
 </div>
 
@@ -152,8 +152,8 @@ The system follows a modular architecture with clear separation of concerns:
 ### Login System
 <!-- Add login screenshots collage here -->
 <div align="center">
-  <img width="1715" height="900" alt="image" src="https://github.com/user-attachments/assets/57da5c94-3304-41fc-841b-b0af33ec51ec" />
-  <img width="1713" height="890" alt="image" src="https://github.com/user-attachments/assets/f9521a26-0dea-445f-a9f0-c9811f692c6b" />
+  <img width="1715/2" height="900/2" alt="image" src="https://github.com/user-attachments/assets/57da5c94-3304-41fc-841b-b0af33ec51ec" />
+  <img width="1713/2" height="890/2" alt="image" src="https://github.com/user-attachments/assets/f9521a26-0dea-445f-a9f0-c9811f692c6b" />
 
 </div>
 
@@ -166,14 +166,14 @@ The system follows a modular architecture with clear separation of concerns:
 ### Attendance Taking Process
 <!-- Add attendance taking process screenshots here -->
 <div align="center">
-  <img width="1887" height="1041" alt="image" src="https://github.com/user-attachments/assets/205592cb-62a2-44be-ac7d-15e058390874" />
+  <img width="1887/2" height="1041/2" alt="image" src="https://github.com/user-attachments/assets/205592cb-62a2-44be-ac7d-15e058390874" />
 </div>
 
 ### Reports and Analytics
 <!-- Add reports screenshots here -->
 <div align="center">
-  <img width="1696" height="895" alt="image" src="https://github.com/user-attachments/assets/78c03d6c-6c2b-4f4e-bff5-2d0b91ccb36b" />
-  <img width="1698" height="888" alt="image" src="https://github.com/user-attachments/assets/a82423a2-35b7-41ba-aaf8-cde5f700c830" />
+  <img width="1696/2" height="895/2" alt="image" src="https://github.com/user-attachments/assets/78c03d6c-6c2b-4f4e-bff5-2d0b91ccb36b" />
+  <img width="1698/2" height="888/2" alt="image" src="https://github.com/user-attachments/assets/a82423a2-35b7-41ba-aaf8-cde5f700c830" />
 </div>
 
 ---
@@ -219,8 +219,7 @@ cd Student-Attendance-Management-System
 
 <!-- Add XAMPP setup screenshot here -->
 <div align="center">
-  <img src="screenshots/xampp-setup.png" alt="XAMPP Control Panel" width="600"/>
-  <p><em>XAMPP Control Panel Setup</em></p>
+  <img width="823" height="530" alt="image" src="https://github.com/user-attachments/assets/ab20915d-44eb-45a6-a153-a1a193a5fab5" />
 </div>
 
 ### Step 3: Database Setup
@@ -232,8 +231,7 @@ cd Student-Attendance-Management-System
 
 <!-- Add database setup screenshot here -->
 <div align="center">
-  <img src="screenshots/database-setup.png" alt="Database Setup in phpMyAdmin" width="800"/>
-  <p><em>Database Setup in phpMyAdmin</em></p>
+  <img width="1671/2" height="848/2" alt="image" src="https://github.com/user-attachments/assets/e29013bc-cae9-41ff-8da9-137cfd858f8e" />
 </div>
 
 ### Step 4: Configure the Application
@@ -260,12 +258,6 @@ cd Student-Attendance-Management-System
 1. Open your web browser
 2. Navigate to: `http://localhost/Student-Attendance-Management-System/`
 3. You should see the application's landing page
-
-<!-- Add installation success screenshot here -->
-<div align="center">
-  <img src="screenshots/installation-success.png" alt="Successful Installation" width="800"/>
-  <p><em>Successful Installation - Application Landing Page</em></p>
-</div>
 
 ---
 
@@ -369,8 +361,8 @@ The system uses a relational database with the following key tables:
 
 <!-- Add database schema diagram here -->
 <div align="center">
-  <img width="1919" height="1052" alt="image" src="https://github.com/user-attachments/assets/845ea863-6e75-46aa-9a16-3142ed3acf6f" />
-  <img width="1917" height="1063" alt="image" src="https://github.com/user-attachments/assets/1e34ffc9-c374-4c4a-8d60-0ed2f189e759" />
+  <img width="1919/2" height="1052/2" alt="image" src="https://github.com/user-attachments/assets/845ea863-6e75-46aa-9a16-3142ed3acf6f" />
+  <img width="1917/2" height="1063/2" alt="image" src="https://github.com/user-attachments/assets/1e34ffc9-c374-4c4a-8d60-0ed2f189e759" />
 </div>
 
 ### Core Tables
