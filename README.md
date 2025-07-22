@@ -52,7 +52,8 @@ The Student Attendance Management System is a comprehensive web-based applicatio
 ## Demo
 
 Watch a live demonstration of Meetly on YouTube:  
-[![System Demo](https://img.youtube.com/vi/U1e-rc4PU6Q/0.jpg)](https://youtu.be/U1e-rc4PU6Q)
+[![System Demo]![System_thumbnail](https://github.com/user-attachments/assets/2da06311-201c-413c-9c6e-aa8ec4883473)
+](https://youtu.be/U1e-rc4PU6Q)
 
 [https://youtu.be/LlQo6g2Lkfg](https://youtu.be/U1e-rc4PU6Q)
 
