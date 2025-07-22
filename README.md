@@ -1,5 +1,3 @@
-<img width="1120" height="630" alt="Thubmnail" src="https://github.com/user-attachments/assets/2276fcae-687a-4a5e-9514-7efe76095431" /># Student Attendance Management System
-
 <div align="center">
   <!-- Add your project logo here -->
   <img width="1830" height="1042" alt="image" src="https://github.com/user-attachments/assets/2d86cbd6-7f1b-4c98-bec2-5d70f8111d53" />
