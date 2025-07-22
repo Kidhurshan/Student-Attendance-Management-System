@@ -1,4 +1,4 @@
-# Student Attendance Management System
+<img width="1120" height="630" alt="Thubmnail" src="https://github.com/user-attachments/assets/2276fcae-687a-4a5e-9514-7efe76095431" /># Student Attendance Management System
 
 <div align="center">
   <!-- Add your project logo here -->
@@ -55,7 +55,7 @@ The Student Attendance Management System is a comprehensive web-based applicatio
 
 <p align="center">
   <a href="https://youtu.be/U1e-rc4PU6Q">
-    <img src="https://img.youtube.com/vi/U1e-rc4PU6Q/maxresdefault.jpg" alt="Project Demo Video" width="600" />
+    <img src="https://github.com/user-attachments/assets/996274dd-485e-48cf-bf3c-099a2ae88478" alt="Project Demo Video" width="600" />
   </a>
 </p>
 
